@@ -12,7 +12,7 @@ Evolutionary algorithms (EAs) that integrate niching techniques are among the mo
 # Notes
 If our paper or this repository is useful for your reseach, please cite our work as:
 
-@article{qian2022granular,  
+@article{dai2022collaborative,  
 title={Collaborative Granular Sieving: A Deterministic Multievolutionary Algorithm for Multimodal Optimization Problems},  
 author={Dai, Lei and Zhang, Liming and Chen, Zehua and Ding, Weiping},  
 journal={Inf. Sci.},  
