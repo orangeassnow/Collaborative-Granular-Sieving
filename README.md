@@ -1,4 +1,4 @@
-# Collaborative Granular sieving (Co-GrS) method
+# Collaborative Granular Sieving: A Deterministic Multievolutionary Algorithm for Multimodal Optimization Problems
 
 This repository contains the code for granular sieving algorithm and the related benchmark functions, in the following paper:
 
